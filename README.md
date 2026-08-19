@@ -180,7 +180,7 @@ BS Information Technology
 Machine Learning & Generative AI
 
 - LinkedIn: https://www.linkedin.com/in/haseeb-tariq-0x
-- GitHub: [[add link](https://github.com/haseeb-ml-engineer/agentic-ai-with-langchain.git)]
+- GitHub: [https://github.com/haseeb-ml-engineer/agentic-ai-with-langchain.git]
 
 ## License
 
